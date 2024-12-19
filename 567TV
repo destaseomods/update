@@ -1,10 +1,14 @@
-
 {
-"version": "1.1.9910",
-"title": "PEMBARUAN TERSEDIA",
-"message": "- Menguntul Fix
-- Jembut Fix",
-"negativeBtn": "Nanti",
-"positiveBtn": "Perbarui",
-"getLink": "https://t.me/destaseo"
-}
+  "versionCode": 999,
+  "versionName": "1.1.999",
+  "Msg": "New update is available, to continue in our app please update it.
+
+What's new:
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+
+Thanks for using",
+  "downloadLink": "https://t.me/@smalicode"
+  }
