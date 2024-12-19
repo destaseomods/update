@@ -1,0 +1,28 @@
+{
+    "packageName": {
+        "credits": "@Destaseo",
+        "showDialog": true,
+        "title": "567TV PRO",
+        "message": "https://raw.githubusercontent.com/destaseomods/update/refs/heads/main/567tv",
+        "showNegativeButton": true,
+        "NegativeButtonText": "Join Channel",
+        "NegativeButtonUrl": "https://t.me/destaseo_mods",
+        "showPositiveButton": true,
+        "positiveButtonText": "Maybe Later",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+ 
+        "updateConfig": {
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "Mod by @kafuHex",
+            "message": "https://raw.githubusercontent.com/Paste your HTML path",
+            "showNegativeButton": true,
+            "NegativeButtonText": "test update",
+            "NegativeButtonUrl": "https://t.me/TheHiddenFools",
+            "showPositiveButton": true,
+            "positiveButtonText": "Maybe Later"
+        }
+    }
+}
