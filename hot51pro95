@@ -1,0 +1,9 @@
+{
+  "status": true,
+  "new_version": "1.1.999-95",
+  "dialog_data": {
+    "title": "Update Available",
+    "download_link": "https://sfile.co/pEeAIRptUnE",
+    "whats_new": "- VIP Subscribed\n- Fixes Profile Display\n- Notification Permananent Disable\n- Bypass Force Update\n- App Optimized"
+  }
+}
